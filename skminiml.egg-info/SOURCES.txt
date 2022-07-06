@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+skminiml/__init__.py
+skminiml/datasets.py
+skminiml.egg-info/PKG-INFO
+skminiml.egg-info/SOURCES.txt
+skminiml.egg-info/dependency_links.txt
+skminiml.egg-info/top_level.txt
