@@ -9,8 +9,8 @@ classifiers = [
 ]
  
 setup(
-  name='skminiml',
-  version='1.2.4',
+  name='aimluae',
+  version='1.0.6',
   description='Artificial Intelligence & Machine Learning UAE',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
