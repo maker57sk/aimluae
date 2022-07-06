@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='aimluae',
-  version='1.0.6',
+  version='1.0.8',
   description='Artificial Intelligence & Machine Learning UAE',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  

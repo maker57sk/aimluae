@@ -8,3 +8,9 @@ Change Log
 - Data From github
 
 
+1.0.8 (06/07/2022)
+-------------------
+
+- Excel file Support Added
+
+
