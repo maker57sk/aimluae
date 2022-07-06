@@ -2,6 +2,7 @@ import pandas as pd
 import requests
 
 
+
 def get_data(data_set):
 
    extension = '.csv'
@@ -15,10 +16,10 @@ def get_data(data_set):
       filename = dir_name + data_set + extension
       return pd.read_excel(filename)
 
-
-
-
-
-   
- 
-
+def list_datasets():
+   data_sets = [
+      'churn', 'courier_companies', 'customs_warehouse_licensees',
+      'customs_warehouses', 'declaration_cargo_detail-1', 'declaration_cargo_detail-2', 
+      'livebirths', 'new_sales', 'Services-En_0', 'vehicle_clearance_certificate'
+   ]
+   return data_sets
